@@ -3,7 +3,7 @@ import os
 import cv2
 from google.cloud import vision_v1p3beta1 as vision
 from datetime import datetime
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'My Project 6358-c94b461ca5e8.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'write your own json file here'
 
 SOURCE_PATH = 'G:/fruits/'
 
