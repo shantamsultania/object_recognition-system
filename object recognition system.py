@@ -8,7 +8,6 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'write your own json file here'
 SOURCE_PATH = 'G:/fruits/'
 
 FOOD_TYPE = "Fruit" 
-
 def load_food_name(food_type):
 
     names = {line.rstrip('\n').lower() for line in open('fruitlist/' + food_type + '.dict')}
