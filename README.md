@@ -1,2 +1,75 @@
 # object_recog
-this is to recognize the object in an image object recognition and detection are two different things you would need to change path and make your own json file from google cloud api 
+
+Hello all, this is a program for an object recognition system using Google vision API and OpenCV.
+
+For this, you need two different things you would need to change the path and make your own JSON file from google cloud API.
+
+To make your own google vision API go thought this reference.
+[try google vision ](https://cloud.google.com/vision/docs/drag-and-drop)
+
+
+# Developing Environment 
+
+## Python 
+
+For downloading python just go to https://www.python.org/ and click download click or you can use this link this will download the latest version of python for you https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe
+
+after that a .exe file will be downloaded just go through it and "eureka" you Python is installed
+
+
+## IDE 
+
+As a developer, I prefer any one of these IDE for the same Pycharm and Anaconda You can use any one of the same.
+
+### Pycharm
+
+To install Pycharm 
+
+just go through this link and do the needful installation you can also refer to this video tutorial given below for reference 
+
+https://www.jetbrains.com/pycharm/download/
+[Video reference](https://www.youtube.com/watch?v=AUiM1UaRCPc) 
+
+### Anaconda 
+
+To install Anaconda
+
+just go through this link and do the needful installation you can also refer to this video tutorial given below for reference 
+https://docs.anaconda.com/anaconda/install/windows/
+
+[Video for reference](https://www.youtube.com/watch?v=T3ff57rxTa8)
+
+## OpenCV 
+
+to install OpenCV just write the following commands in the cmd 
+
+run pip install opencv-python if you need only main modules.
+run pip install opencv-contrib-python if you need both main and contrib modules 
+
+(check extra modules listing from OpenCV documentation at https://docs.opencv.org/master/ )
+
+You can also refer to this video link on how to install OpenCV in below given IDE's
+
+For Pycharm
+https://www.youtube.com/watch?v=ppnFp_RiE0A
+
+For Anaconda
+https://www.youtube.com/watch?v=T2ykss_4Af0
+
+# Resources 
+
+To learn more about these Resources you can Refer to some of these articles written by Me:-
+
+https://medium.com/@unknown.underme
+
+### Made with ❤️by Shantam Sultania
+#### About me
+
+I am an Andriod developer, Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
+I have a keen interest in Image processing and Andriod development.
+I am Currently Campus Representative at Google developers Group Chandigarh, Facebook Developer circle Chandigarh, Github Student developer, and Club Lead at CSE Department Chandigarh University, Punjab.
+
+You can find me at:-
+[Linkedin](https://www.linkedin.com/in/shantam-sultania-737084175/) or [Github](https://github.com/shantamsultania) .
+
+Happy coding ❤️ .
